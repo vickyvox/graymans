@@ -30,5 +30,6 @@ createServer(async (req, res) => {
     res.end(fallback);
   }
 }).listen(port, "127.0.0.1", () => {
-  console.log(`Static preview running at http://127.0.0.1:${port}`);
+  console.log(` sssssssvicky   Static preview running at http://127.0.0.1:${port}`);
+
 });
